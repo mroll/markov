@@ -15,7 +15,8 @@ def probabilities(words, sliderlen=2):
     for i in range(len(words)-sliderlen):
         current = tuple(words[i:i+sliderlen])
         next    = words[i+sliderlen]
-        if wordmap.has_key(words[i]):
+
+        if wordmap.has_key(current):
             wordmap[current]['freq']     += 1
 
             if wordmap[current]['transitions'].has_key(next):
