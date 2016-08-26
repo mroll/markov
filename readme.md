@@ -6,6 +6,8 @@ words follow what sequences of words and how often. The script has
 functions that give you back sentences and paragraphs of markov
 generated text.
 
+My sample text files are from Project Gutenberg and textfiles.com.
+
 ## examples
 
 Here are a few examples:
