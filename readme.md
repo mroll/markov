@@ -10,8 +10,6 @@ My sample text files are from Project Gutenberg and textfiles.com.
 
 ## examples
 
-Here are a few examples:
-
     matt@fitz ~/s/p/markov ∂ python markov.py txt/alien3a.txt txt/commandments.txt
 
     Beast sheds its human skin in a lifeboat and launches her into space.
