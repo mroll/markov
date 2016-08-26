@@ -105,6 +105,6 @@ for file in sys.argv[1:]:
 wordmap = probabilities(words, sliderlen=2)
 populate_next_functions(wordmap)
 
-paras = '\n\n'.join([paragraph(wordmap) for i in range(3)])
+paras = '\n\n'.join([paragraph(wordmap) for i in range(1)])
 
 print linewrap(paras)
