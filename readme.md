@@ -3,8 +3,8 @@
 This script computes text using a markov chain process. Given text files
 as command line arguments, it builds a hash table with info about what
 words follow what sequences of words and how often. The script has
-functions that easily allow you to get back sentences and paragraphs of
-markov generated text.
+functions that give you back sentences and paragraphs of markov
+generated text.
 
 ## examples
 
