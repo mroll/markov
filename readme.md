@@ -12,10 +12,8 @@ Here are a few examples:
 
     matt@fitz ~/s/p/markov ∂ python markov.py txt/jefferson.txt
 
-    Committee, however, insisted on any matter whatever, be it ever so new
-    or
-    difficult, if he does not prohibit exportation of arms, ammunition, &c
-    .,
+    Committee, however, insisted on any matter whatever, be it ever so new or
+    difficult, if he does not prohibit exportation of arms, ammunition, &c .,
     but leaves them to be confiscated, if seized, 558, 560. At Europe be as
     little can either enrol them in the courts, 538, 540, 541, 585. No just
     cause of war, 387. Producing any proof. Immediately wrote circular
