@@ -10,8 +10,7 @@ My sample text files are from Project Gutenberg and textfiles.com.
 
 ## examples
 
-Burning Chrome gives the best results so far. I guess it sounds good
-even if you haven't read Gibson, but I don't know.
+Burning Chrome gives the coolest results so far
 
     matt@fitz ~/s/p/markov ∂ python markov.py txt/chrome.txt
 
